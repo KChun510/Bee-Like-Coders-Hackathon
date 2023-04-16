@@ -1,5 +1,5 @@
-const text1 = "Self-care isn't selfish, it's necessary.";
-const text2 = "Move your body, nourish your soul.";
+const text1 = "_Health_Hive_HQ_";
+const text2 = "Self-care isn't selfish, it's necessary.";
 const typingSpeed = 50; // in milliseconds per character
 
 let textElement = document.getElementById("typing-text");
